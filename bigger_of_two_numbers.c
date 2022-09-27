@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main(){
+int main()
+
+{
     int num1, num2, bigger;
 
     printf("Enter two numbers seperated by a space: \n");
